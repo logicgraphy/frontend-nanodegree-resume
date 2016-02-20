@@ -1,0 +1,15 @@
+{
+	"name" : "Randeep Singh",
+	"role" : "Web Developer",
+	"contacts" : {
+	      			"mobile": "(408) 665-1690",
+      				"email": "logicgraphy@gmail.com",
+			        "github": "https://github.com/logicgraphy",
+			        "twitter": "@logicgraphy",
+			        "blog": "http://randeep.us",
+			        "location": "Sunnyvale, CA"
+		        },	
+	"welcomeMessage": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt.", 
+	"skills": ["HTML5", "CSS3", "Javascript", "AngularJS", "NodeJS"],
+	"biopic": "http://s22.postimg.org/nogmq95lt/2014_11_30_14_12_11.jpg"
+}

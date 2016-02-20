@@ -1,0 +1,24 @@
+{
+     "schools": [{
+                    "name": "University of Mumbai",
+                    "location": "Mumbai, IN",
+                    "degree": "Bachelor's Degree",
+                    "majors": ["Computer Engineering"],
+                    "dates": "2007",
+                    "url": "#"
+               },
+               {
+                    "name": "San Jose State University",
+                    "location": "San Jose, CA",
+                    "degree": "Master's",
+                    "majors": ["Software Engineering"],
+                    "dates": "2015",
+                    "url": "#"
+               }],
+     "onlineCourses": [{
+                    "title": "Frontend Nanordegree",
+                    "school": "Udacity",
+                    "date": "2016",
+                    "url": "https://www.udacity.com/course/front-end-web-developer-nanodegree--nd001"
+               }]
+}

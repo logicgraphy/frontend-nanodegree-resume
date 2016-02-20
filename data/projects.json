@@ -1,0 +1,20 @@
+{
+	"projects": [{
+			      "title": "Project Title # 1", 
+			      "dates": "2013",
+			      "description": "Sapien tortor nullam ut, nibh nostra sem rhoncus nec nullam imperdiet, hymenaeos metus rhoncus. Etiam sodales, felis cras tellus in eleifend eget vestibulum, hymenaeos nulla, sociosqu felis urna ut aptent nulla felis, facilisis mi elit elementum egestas amet. ",
+			      "images": ["http://placehold.it/350x150", "http://placehold.it/350x150", "http://placehold.it/350x150"]
+		      },
+		      {
+			      "title": "Project Title # 2", 
+			      "dates": "2014",
+			      "description": "Ac nunc, ante molestiae, ornare vitae massa rutrum ipsum pede turpis, pretium vel sem nulla nulla magna donec, amet orci pellentesque fames sit. Suspendisse ullamcorper sociis consequat ultrices. Parturient donec magna dui luctus massa sapien, ac aliquam curabitur, nunc nonummy et ultricies augue purus.",
+			      "images": ["http://placehold.it/350x150", "http://placehold.it/350x150", "http://placehold.it/350x150"]
+		      },
+		      {
+			      "title": "Project Title # 3", 
+			      "dates": "2015",
+			      "description": "Luctus vitae enim vel, tempor ac, lacinia ante praesent ridiculus et lacinia, aliquet sed placerat est mollis posuere erat. Massa gravida et, in id ipsum est congue, ac volutpat ut commodo eros. Varius duis quisque diam nam ipsum. Proin duis vehicula sit natoque est tempor, volutpat libero.",
+			      "images": ["http://placehold.it/350x150", "http://placehold.it/350x150", "http://placehold.it/350x150"]
+		      }]
+}	
